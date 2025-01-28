@@ -1,6 +1,7 @@
 # Task Tracker CLI
 
 A simple command-line task tracker application built with PHP that helps you manage your tasks.
+Project URL: [roadmap.sh Task Tracker Project](https://roadmap.sh/projects/task-tracker)
 
 ## Features
 
