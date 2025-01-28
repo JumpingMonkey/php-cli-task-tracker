@@ -1,0 +1,13 @@
+# Task data
+tasks.json
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+.docker/
